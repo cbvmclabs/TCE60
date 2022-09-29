@@ -1,5 +1,4 @@
 pandas==1.1.5
 matplotlib==3.0.2
 spacy==3.4.1
-
 https://github.com/explosion/spacy-models/releases/download/es_core_news_sm-3.4.0/es_core_news_sm-3.4.0.tar.gz
