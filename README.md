@@ -1,3 +1,7 @@
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cbvmclabs/TCE60/HEAD)
+
+
 # TCE60
 Ejemplo de reutilización del repositorio Teatro Clásico Español de la Biblioteca Virtual Miguel de Cervantes
 
