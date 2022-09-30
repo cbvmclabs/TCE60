@@ -2,7 +2,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cbvmclabs/TCE60/HEAD)
 
 
-# TCE60
+# Canon 60. La colección esencial del TC/12. Teatro clásico español - Jupyter Notebooks
 Ejemplo de reutilización del repositorio Teatro Clásico Español de la Biblioteca Virtual Miguel de Cervantes
 
 
